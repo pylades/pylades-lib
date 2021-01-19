@@ -1,5 +1,5 @@
 {
-  "name": "@pylades/lib",
+  "name": "@pyladesprotocol/lib",
   "version": "4.0.1-alpha",
   "description": "📖 Solidity libraries that are shared across Pylades contracts",
   "files": [
