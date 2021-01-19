@@ -1,6 +1,7 @@
 {
   "name": "@pyladesprotocol/lib",
-  "version": "4.0.1-alpha",
+  "version": "1.0.0",
+  "author": "Andreas Bigger",
   "description": "📖 Solidity libraries that are shared across Pylades contracts",
   "files": [
     "contracts",
