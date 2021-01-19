@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/lib",
+  "name": "@pylades/lib",
   "version": "4.0.1-alpha",
-  "description": "📖 Solidity libraries that are shared across Uniswap contracts",
+  "description": "📖 Solidity libraries that are shared across Pylades contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://uniswap.org",
+  "homepage": "https://pylades.finance",
   "repository": {
-    "url": "https://github.com/Uniswap/uniswap-lib",
+    "url": "https://github.com/pylades/pylades-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Uniswap/uniswap-lib/issues"
+    "url": "https://github.com/pylades/pylades-lib/issues"
   },
   "engines": {
     "node": ">=10"
